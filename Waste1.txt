@@ -1,2 +1,6 @@
 Hi Hello Bye Thank u
 Edit 1
+<<<<<<< HEAD
+=======
+Edit 2
+>>>>>>> 2a45851 (Edit 2 commit)
